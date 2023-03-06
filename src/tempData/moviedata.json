@@ -1,22 +1,27 @@
 [
   {
     "id": "1",
-    "name": "Spirited Away"
+    "name": "Spirited Away",
+    "url": "https://images3.alphacoders.com/819/81999.jpg"
   },
   {
     "id": "2",
-    "name": "Howl's Moving Castle"
+    "name": "Howl's Moving Castle",
+    "url": "https://wallpapercave.com/uwp/uwp1625702.jpeg"
   },
   {
     "id": "3",
-    "name": "Princess Mononoke"
+    "name": "Princess Mononoke",
+    "url": "https://rare-gallery.com/uploads/posts/559765-princess-mononoke.jpg"
   },
   {
     "id": "4",
-    "name": "My Neighbor Totoro"
+    "name": "My Neighbor Totoro",
+    "url": "https://images2.alphacoders.com/499/499590.jpg"
   },
   {
     "id": "5",
-    "name": "From Up on Poppy Hill"
+    "name": "From Up on Poppy Hill",
+    "url": "https://c4.wallpaperflare.com/wallpaper/680/633/269/movie-from-up-on-poppy-hill-wallpaper-preview.jpg"
   }
 ]
