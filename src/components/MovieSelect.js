@@ -4,14 +4,14 @@ import { useMovieContext } from "../context/MovieContext"
 export default function MovieSelect ({ movies }) {
   const { movieId, setMovie } = useMovieContext();
 
-  function selectedMovie(movies, movieId) {
+  function selectedMovieURL(movies, movieId) {
     return movies.find(movie => movie.id === movieId).url
   }
 
   return (
     <>
       <div className="movie-select">
-      <label>Select a Movie:
+      <label id="movie-label">Select a Movie:
       <div>
       <select
         value={movieId}
@@ -22,7 +22,7 @@ export default function MovieSelect ({ movies }) {
       </div>
       </label>
       </div>
-      {<div className="movie-class" style={{backgroundImage:`url(${selectedMovie(movies, movieId)})`}}></div>}
+      {<div className="movie-class" style={{backgroundImage:`url(${selectedMovieURL(movies, movieId)})`}}></div>}
     </>
   )
 }

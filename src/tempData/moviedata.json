@@ -2,26 +2,31 @@
   {
     "id": "1",
     "name": "Spirited Away",
-    "url": "https://images3.alphacoders.com/819/81999.jpg"
+    "url": "https://images3.alphacoders.com/819/81999.jpg",
+    "description": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches, and spirits, and where humans are changed into beasts."
   },
   {
     "id": "2",
     "name": "Howl's Moving Castle",
-    "url": "https://wallpapercave.com/uwp/uwp1625702.jpeg"
+    "url": "https://wallpapercave.com/uwp/uwp1625702.jpeg",
+    "description": "When an unconfident young woman is cursed with an old body by a spiteful witch, her only chance of breaking the spell lies with a self-indulgent yet insecure young wizard and his companions in his legged, walking castle."
   },
   {
     "id": "3",
     "name": "Princess Mononoke",
-    "url": "https://rare-gallery.com/uploads/posts/559765-princess-mononoke.jpg"
+    "url": "https://mercatornet.com/wp-content/uploads/2022/07/Princess-Mononoke.png",
+    "description": "On a journey to find the cure for a Tatarigami's curse, Ashitaka finds himself in the middle of a war between the forest gods and Tatara, a mining colony. In this quest he also meets San, the Mononoke Hime."
   },
   {
     "id": "4",
     "name": "My Neighbor Totoro",
-    "url": "https://images2.alphacoders.com/499/499590.jpg"
+    "url": "https://images2.alphacoders.com/499/499590.jpg",
+    "description": "When two girls move to the country to be near their ailing mother, they have adventures with the wondrous forest spirits who live nearby."
   },
   {
     "id": "5",
     "name": "From Up on Poppy Hill",
-    "url": "https://c4.wallpaperflare.com/wallpaper/680/633/269/movie-from-up-on-poppy-hill-wallpaper-preview.jpg"
+    "url": "https://c4.wallpaperflare.com/wallpaper/680/633/269/movie-from-up-on-poppy-hill-wallpaper-preview.jpg",
+    "description": "A group of Yokohama teens look to save their school's clubhouse from the wrecking ball in preparations for the 1964 Tokyo Olympics."
   }
 ]
